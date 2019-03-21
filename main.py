@@ -47,4 +47,8 @@ server = SSHTunnelForwarder(
 server.start()
 
 print(server.local_bind_port)
+<<<<<<< HEAD
 getStatus()
+=======
+getStatus()
+>>>>>>> 34934c2f680964b0f27f620a1259e0338ce8c13e

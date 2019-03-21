@@ -35,7 +35,6 @@ def getStatus():
     print("Error №: ", result[65])
     print("Error: ", result[66])
     print("Seconds Behind Master: ", result[79])
-    #print(result[::2])
 
 
 server = SSHTunnelForwarder(

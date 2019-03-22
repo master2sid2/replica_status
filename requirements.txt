@@ -1,3 +1,4 @@
 sshtunnel
 python-dotenv
 mysql-connector
+pyqt5
